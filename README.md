@@ -12,8 +12,10 @@
 ┌──(operator㉿github)-[~/profile]
 └─$ cat mission.txt
 
-I test systems like an attacker, explain findings like an engineer,
-and document remediation so the same weakness does not return.
+Penetration Tester.
+I enjoy finding the attack path others overlook,
+turning complex systems into solvable puzzles,
+and building labs that teach others how attackers think.
 ```
 
 ## `01 // OPERATOR PROFILE`
@@ -133,8 +135,8 @@ Small utilities for enumeration, parsing, evidence collection, and reporting aut
 
 <div align="center">
 
-[![GitBook](https://img.shields.io/badge/WRITEUPS-111111?style=for-the-badge&logo=gitbook&logoColor=39FF88)](YOUR_BLOG_URL)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=39FF88)](YOUR_LINKEDIN_URL)
+[![GitBook](https://img.shields.io/badge/WRITEUPS-111111?style=for-the-badge&logo=gitbook&logoColor=39FF88)](https://ichyaboys-village.gitbook.io/ichyaboys-village)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=39FF88)](https://www.linkedin.com/in/ahmed-elkefi/)
 [![Email](https://img.shields.io/badge/CONTACT-111111?style=for-the-badge&logo=protonmail&logoColor=39FF88)](mailto:YOUR_EMAIL)
 
 </div>
