@@ -113,8 +113,8 @@ Small utilities for enumeration, parsing, evidence collection, and reporting aut
 <div align="center">
 
 <!-- Replace YOUR_USERNAME in both URLs. -->
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050807&title_color=39FF88&text_color=79FFA8&icon_color=39FF88" alt="GitHub statistics"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050807&title_color=39FF88&text_color=79FFA8" alt="Top languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Ichyaboy&show_icons=true&hide_border=true&bg_color=050807&title_color=39FF88&text_color=79FFA8&icon_color=39FF88" alt="GitHub statistics"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ichyaboy&layout=compact&hide_border=true&bg_color=050807&title_color=39FF88&text_color=79FFA8" alt="Top languages"/>
 
 </div>
 
